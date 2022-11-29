@@ -17,8 +17,8 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 ```
-Developed by: VISHAL GOWTHAMAN K R
-Register no: 212221230123
+Developed by: KERSOAN P
+Register no : 212221230050
 ```
 
 # CODE:
